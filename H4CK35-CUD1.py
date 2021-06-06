@@ -119,9 +119,9 @@ while loop == 'true':
             time.sleep(3)
             loop = 'false'
         else:
-            print 'PASS H0WL4D34R'
+            print 'PASS HALAYA'
     else:
-        print 'USER SH4Z4HN'
+        print 'USER HALAYA'
 os.system("https://youtube.com/channel/UC3WcGIpTdNldsXAYWED7BuQ")
  
 back = 0
